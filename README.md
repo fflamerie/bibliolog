@@ -1,2 +1,15 @@
-# bibliolog
-Ressources pour la méthode de la recherche bibliographique - largement inspiré du ZotLog
+# Bibliolog
+
+Ressources pour la méthode de la recherche bibliographique - largement inspiré du [ZotLog](https://www.zotero.org/groups/zotlog/items/itemKey/HP6BW7TX).
+
+Retrouvez les notes et les documents :label: [au marqueur "bibliolog" de cette bibliothèque de groupe Zotero](https://www.zotero.org/groups/2561378/form_biblio_isped/items/tag/bibliolog).
+
+:information_source: Lisez [le mode d'emploi](https://www.zotero.org/groups/2561378/form_biblio_isped/items/itemKey/CYHI67IX)
+
+:inbox_tray: Vous pouvez télécharger ici les documents suivants.
+
+* La fiche METHODE rappelle les différentes étapes de la recherche, de la construction d'une équation de recherche au choix d'un outil bibliographique.
+* La fiche MOTSCLES est un modèle pour constituer votre liste organisée de mots-clés.
+* la fiche TP est utilisé comme trame pour un TP de recherche bibliographique.
+* Le Mémo : rédaction bibliographique avec la norme Vancouver et le logiciel Zotero, illustré d'exemples, vous permettra d'enregistrer dès le départ dans votre bibliothèque Zotero toutes les informations bibliographiques requises pour utiliser ensuite les outils de rédaction bibliographique intégrés à Zotero.
+

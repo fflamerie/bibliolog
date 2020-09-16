@@ -1,6 +1,6 @@
 # Bibliolog
 
-Ressources pour la méthode de la recherche bibliographique - largement inspiré du [ZotLog](https://www.zotero.org/groups/zotlog/items/itemKey/HP6BW7TX).
+Ressources pour la méthode de la recherche et de la rédaction bibliographiques - largement inspiré du [ZotLog](https://www.zotero.org/groups/zotlog/items/itemKey/HP6BW7TX).
 
 Retrouvez les notes et les documents :label: [au marqueur "bibliolog" de cette bibliothèque de groupe Zotero](https://www.zotero.org/groups/2561378/form_biblio_isped/items/tag/bibliolog).
 

@@ -6,6 +6,8 @@ Retrouvez les notes et les documents :label: [au marqueur "bibliolog" de cette b
 
 :information_source: Lisez [le mode d'emploi](https://www.zotero.org/groups/2561378/form_biblio_isped/items/itemKey/CYHI67IX)
 
+:bookmark_tabs: Exemple de début de Bibliolog : recherche sur le sujet [Cigarette électronique et initiation du tabagisme](https://www.zotero.org/groups/2561378/items/43B5JLI2) - cliquez sur "Notes" à droite pour afficher les notes.
+
 :inbox_tray: Vous pouvez télécharger ici les documents suivants.
 
 * La [fiche METHODE](https://github.com/fflamerie/bibliolog/blob/master/docs/recherche_biblio_METHODE.pdf) rappelle les différentes étapes de la recherche, de la construction d'une équation de recherche au choix d'un outil bibliographique.

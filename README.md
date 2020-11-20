@@ -17,7 +17,7 @@ Retrouvez les notes et les documents :label: [au marqueur "bibliolog" de cette b
 
   * :point_right: Modèle alternatif 2 : [logbook de Vrije Universiteit Amsterdam](https://libguides.vu.nl/PMroadmap/logbook) pour la base de données PubMed, avec **un exemple complet pour une recherche sur le sujet "Is using antibiotic treatment for appendicitis in adults a safe and effective alternative to  an appendectomy?"**
 
-  * [Un exemple de fiche MOTSCLES](https://github.com/fflamerie/bibliolog/blob/master/docs/_BIBLIOLOG_Cigarette.odt) pour le sujet "Cigarette électronique et initiation du tabagisme".
+  * [Un exemple de fiche MOTSCLES](https://github.com/fflamerie/bibliolog/blob/master/docs/_BIBLIOLOG_Cigarette.pdf) pour le sujet "Cigarette électronique et initiation du tabagisme".
 * La [fiche NOTE_BDD](https://github.com/fflamerie/bibliolog/blob/master/docs/recherche_biblio_NOTE_BDD.txt) reprend sous la forme d'un fichier .txt le modèle pour documenter les recherches dans les bases de données -> une note = une recherche dans une base de données.
 * Le [Mémo : rédaction bibliographique avec la norme Vancouver et le logiciel Zotero](https://github.com/fflamerie/bibliolog/blob/master/docs/vancouver_zotero_memo.pdf), illustré d'exemples, vous permettra d'enregistrer dès le départ dans votre bibliothèque Zotero toutes les informations bibliographiques requises pour utiliser ensuite les outils de rédaction bibliographique intégrés à Zotero.
 

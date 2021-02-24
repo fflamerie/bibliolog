@@ -43,7 +43,7 @@ La [note Zotero NOTE_BDD](https://www.zotero.org/groups/2561378/items/FNRSD497) 
 * [Exemple de NOTE_BDD PubMed](https://www.zotero.org/groups/2561378/items/NP97S2QD)
 * [Exemple de NOTE_BDD PsycInfo](https://www.zotero.org/groups/2561378/items/VGZECMPV)
 
-### Rédaction bibliographique
+## Rédaction bibliographique
 
 Le :black_nib: [Mémo : rédaction bibliographique avec la norme Vancouver et le logiciel Zotero](https://github.com/fflamerie/bibliolog/blob/master/docs/vancouver_zotero_memo.pdf), illustré d'exemples, vous permettra d'enregistrer dès le départ dans votre bibliothèque Zotero toutes les informations bibliographiques requises pour utiliser ensuite les outils de rédaction bibliographique intégrés à Zotero.
 

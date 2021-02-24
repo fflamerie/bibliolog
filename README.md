@@ -16,7 +16,9 @@ Elle est disponible sous différents formats.
 
 * [Fiche MOTS CLES au format .doc](https://github.com/fflamerie/bibliolog/blob/master/docs/recherche_biblio_MOTSCLES.doc)
 * [Fiche MOTS CLES au format .pdf](https://github.com/fflamerie/bibliolog/blob/master/docs/recherche_biblio_MOTSCLES.pdf)
-* [Fiche MOTS CLES sous forme de note Zotero](https://www.zotero.org/groups/2561378/items/HQZ4H3UR), à enregistrer directement dans voter bibliothèque Zotero
+* [Fiche MOTS CLES sous forme de note Zotero](https://www.zotero.org/groups/2561378/items/HQZ4H3UR), à enregistrer directement dans votre bibliothèque Zotero
+
+:point_right: Un exemple de fiche complétée vous est également fourni.
 
 * [Exemple de fiche MOTS CLES complétée au format .doc](https://github.com/fflamerie/bibliolog/blob/master/docs/recherche_biblio_MOTSCLES_exemple.doc)
 * [Exemple de fiche MOTS CLES complétée au format .pdf](https://github.com/fflamerie/bibliolog/blob/master/docs/recherche_biblio_MOTSCLES_exemple.pdf)

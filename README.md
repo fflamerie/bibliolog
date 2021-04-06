@@ -48,3 +48,10 @@ La [note Zotero NOTE_BDD](https://www.zotero.org/groups/2561378/items/FNRSD497) 
 Le :black_nib: [Mémo : rédaction bibliographique avec la norme Vancouver et le logiciel Zotero](https://github.com/fflamerie/bibliolog/blob/master/docs/vancouver_zotero_memo.pdf), illustré d'exemples, vous permettra d'enregistrer dès le départ dans votre bibliothèque Zotero toutes les informations bibliographiques requises pour utiliser ensuite les outils de rédaction bibliographique intégrés à Zotero.
 
 :point_right: Les exemples cités dans le **Mémo : rédaction bibliographique avec la norme Vancouver et le logiciel Zotero** sont disponibles :label: [au marqueur "zotero_ex_vancouver" de cette bibliothèque de groupe Zotero](https://www.zotero.org/groups/2561378/form_biblio_isped/items/tag/zotero_ex_vancouver) : enregistrez-les dans votre bibliothèque Zotero pour disposer directement de modèles de saisie!
+
+### Cours Zotero
+
+* [Introduction à Zotero, votre assistant de recherche personnel - COURS au format html](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_intro_FR_COURS.md)
+* [Introduction à Zotero, votre assistant de recherche personnel - COURS au format pdf](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_intro_FR_COURS.pdf)
+* [Introduction à Zotero, votre assistant de recherche personnel - Suppléments](https://github.com/fflamerie/zotero_intro_FR#suppl%C3%A9ments)
+

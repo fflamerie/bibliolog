@@ -1,12 +1,11 @@
 # Bibliolog
 
-Le Bibliolog rassemble des outils de méthode pour la recherche et de la rédaction bibliographiques - largement inspiré du [ZotLog](https://www.zotero.org/groups/zotlog/items/itemKey/HP6BW7TX).
+Le Bibliolog rassemble des outils de méthode pour la recherche et la rédaction bibliographiques - largement inspiré du [ZotLog](https://www.zotero.org/groups/zotlog/items/itemKey/HP6BW7TX).
 
 ## Sommaire
 
 * [Méthode de la recherche documentaire](https://github.com/fflamerie/bibliolog#m%C3%A9thode-de-la-recherche-documentaire)
 * [Rédaction bibliographique](https://github.com/fflamerie/bibliolog#r%C3%A9daction-bibliographique)
-
 
 ## Méthode de la recherche documentaire
 

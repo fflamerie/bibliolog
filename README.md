@@ -1,17 +1,15 @@
 # Bibliolog
 
-Le Bibliolog rassemble des outils de méthode pour la recherche et la rédaction bibliographiques - largement inspiré du [ZotLog](https://www.zotero.org/groups/zotlog/items/itemKey/HP6BW7TX).
+Le Bibliolog rassemble des outils de méthode pour la recherche et la rédaction bibliographiques. 
+
+Largement inspiré du [ZotLog](https://www.zotero.org/groups/zotlog/items/itemKey/HP6BW7TX), il a été conçu à destination des étudiants de l'Isped (santé publique) à l'université de Bordeaux.
 
 ## Sommaire
 
-* [Méthode de la recherche documentaire](https://github.com/fflamerie/bibliolog#m%C3%A9thode-de-la-recherche-documentaire)
-* [Rédaction bibliographique](https://github.com/fflamerie/bibliolog#r%C3%A9daction-bibliographique)
+* [Méthode de la recherche documentaire](https://github.com/fflamerie/bibliolog#m%C3%A9thode-de-la-recherche-documentaire) - :dart: L'essentiel : [Mémo méthode de la recherche documentaire](https://github.com/fflamerie/bibliolog/blob/master/docs/memo_recherche_bilio.pdf)
+* [Rédaction bibliographique](https://github.com/fflamerie/bibliolog#r%C3%A9daction-bibliographique) - :dart: L'essentiel : [Mémo : rédaction bibliographique avec la norme Vancouver et le logiciel Zotero](https://github.com/fflamerie/bibliolog/blob/master/docs/vancouver_zotero_memo.pdf)
 
 ## Méthode de la recherche documentaire
-
-### Généralités
-
-La [fiche METHODE](https://github.com/fflamerie/bibliolog/blob/master/docs/recherche_biblio_METHODE.pdf) rappelle les différentes étapes de la recherche, de la construction d'une équation de recherche au choix d'un outil bibliographique.
 
 ### Mots-clés
 
@@ -59,4 +57,5 @@ Le :black_nib: [Mémo : rédaction bibliographique avec la norme Vancouver et le
 * [Introduction à Zotero, votre assistant de recherche personnel - COURS au format html](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_intro_FR_COURS.md)
 * [Introduction à Zotero, votre assistant de recherche personnel - COURS au format pdf](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_intro_FR_COURS.pdf)
 * [Introduction à Zotero, votre assistant de recherche personnel - Suppléments](https://github.com/fflamerie/zotero_intro_FR#suppl%C3%A9ments)
+  * [Zotero pour une revue de littérature](https://github.com/fflamerie/zotero_intro_FR#zotero-pour-une-revue-de-litt%C3%A9rature)
 

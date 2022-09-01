@@ -1,8 +1,6 @@
 # Bibliolog
 
-Le Bibliolog rassemble des outils de méthode pour la recherche et la rédaction bibliographiques. 
-
-Largement inspiré du [ZotLog](https://www.zotero.org/groups/zotlog/items/itemKey/HP6BW7TX), il a été conçu à destination des étudiants de l'Isped (santé publique) à l'université de Bordeaux.
+Le Bibliolog rassemble des outils de méthode pour la recherche et la rédaction bibliographiques. Largement inspiré du [ZotLog](https://www.zotero.org/groups/zotlog/items/itemKey/HP6BW7TX), il a été conçu à destination des étudiants de l'Isped (santé publique) à l'université de Bordeaux.
 
 ## Sommaire
 

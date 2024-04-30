@@ -6,9 +6,8 @@ Le Bibliolog rassemble des outils de méthode pour la recherche et la rédaction
 
 * [Méthode de la recherche documentaire](https://github.com/fflamerie/bibliolog#m%C3%A9thode-de-la-recherche-documentaire) - :dart: L'essentiel : [Mémo : méthode de la recherche documentaire](https://github.com/fflamerie/bibliolog/blob/master/docs/memo_recherche_biblio.pdf)
 * [Rédaction bibliographique](https://github.com/fflamerie/bibliolog#r%C3%A9daction-bibliographique) - :dart: L'essentiel : [Mémo : rédaction bibliographique avec la norme Vancouver et le logiciel Zotero](https://github.com/fflamerie/bibliolog/blob/master/docs/vancouver_zotero_memo.pdf)
-
-🗃️ Bonus 1 : [Revue de littérature en santé : focus bibliographique](https://github.com/fflamerie/bibliolog/blob/master/docs/Fiche_RevLit.pdf)
-🕸️ Bonus 2 : [Constituer et explorer des corpus d’articles avec Connected Papers, Research Rabbit et Citation Chaser](https://github.com/fflamerie/bibliolog/blob/master/docs/Fiche_ExploLit.pdf)
+* Bonus 1 : 🗃️ [Revue de littérature en santé : focus bibliographique](https://github.com/fflamerie/bibliolog/blob/master/docs/Fiche_RevLit.pdf)
+* Bonus 2 : 🕸️ [Constituer et explorer des corpus d’articles avec Connected Papers, Research Rabbit et Citation Chaser](https://github.com/fflamerie/bibliolog/blob/master/docs/Fiche_ExploLit.pdf)
 
 ## Méthode de la recherche documentaire
 

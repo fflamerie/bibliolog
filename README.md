@@ -56,6 +56,7 @@ Le :black_nib: [Mémo : rédaction bibliographique avec la norme Vancouver et le
 
 * [Introduction à Zotero, votre assistant de recherche personnel - COURS au format html](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_intro_FR_COURS.md)
 * [Introduction à Zotero, votre assistant de recherche personnel - COURS au format pdf](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_intro_FR_COURS.pdf)
-* [Introduction à Zotero, votre assistant de recherche personnel - Suppléments](https://github.com/fflamerie/zotero_intro_FR#suppl%C3%A9ments)
-  * [Zotero pour une revue de littérature](https://github.com/fflamerie/zotero_intro_FR#zotero-pour-une-revue-de-litt%C3%A9rature)
+
+:card_file_box: Trucs et astuces pour optimiser l'utilisation de Zotero dans le contexte d'une revue de littérature : [à consulter en ligne en html](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.md) - [à télécharger en PDF](https://github.com/fflamerie/zotero_intro_FR/blob/master/content/zotero_truc_syst.pdf)
+
 
